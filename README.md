@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/MacOS-3888B5?&style=for-the-badge&logo=Apple&logoColor=white" />
     <img src="https://img.shields.io/badge/iOS-D33D3F?&style=for-the-badge&logo=Apple&logoColor=white" />
     <img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white" />
-    <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white" />
     <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
@@ -59,7 +59,7 @@
     <a href="https://discord.com/users/389759544776982528">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
-    <a href="https://twitter.com/MrGigiThebunny">
+    <a href="https://twitter.com/iDarthGigi">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
     <a href="https://github.com/DarthGigi" target="_blank">

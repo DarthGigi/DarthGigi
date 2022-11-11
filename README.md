@@ -1,74 +1,33 @@
-<h1>Something you don't care about</h1>
-<p>A useless human being that delivers nothing to society</p>
+# 🙄 Something you don't care about:
+
+A useless human being that delivers nothing to society
+
+## 🌐 Socials:
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jGCPpGDz) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/idarthgigi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@idarthgigi)
+
+# 💻 Tech Stack:
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338bdf8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-%23ff5d01.svg?style=for-the-badge&logo=astro&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-%2312100E.svg?style=for-the-badge&logo=apple&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=darthgigi&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=darthgigi&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=darthgigi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=darthgigi&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ My Favorite Quote
+
+![](https://quotes-github-readme.vercel.app/api?quote=Design+is+not+just+what+it+looks+like+and+feels+like.%0A+Design+is+how+it+works.&author=Steve%20Jobs&theme=dark&type=horizontal)
+
+### 😂 Random Dev Meme
+
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 
-<div>
-    <h1>I know</h1>
-    <div>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" />
-        <img src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white" />
-        <img src="https://img.shields.io/badge/tailwindcss-%2338bdf8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    </div>
-
----
-
-<div>
-    <h1>I am learning</h1>
-    <div>
-        <div>
-            <img src="https://img.shields.io/badge/tailwindcss-%2338bdf8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" />
-        </div>
-    </div>
-<div>
-
----
-
-<div>
-    <h1>I am planning to learn</h1>
-    <div>
-        <div>
-            <img src="https://img.shields.io/badge/Swift-FA7343?&style=for-the-badge&logo=Swift&logoColor=white" />
-            <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-        </div>
-    </div>
-</div>
-
----
-
-<h1>Things that I use</h1>
-<div>
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
-    <img src="https://img.shields.io/badge/MacOS-3888B5?&style=for-the-badge&logo=Apple&logoColor=white" />
-    <img src="https://img.shields.io/badge/iOS-D33D3F?&style=for-the-badge&logo=Apple&logoColor=white" />
-    <img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
-    <img src="https://img.shields.io/badge/Github-181717?&style=for-the-badge&logo=GitHub" />
-    <img src="https://img.shields.io/badge/Creative%20Cloud-DA1F26?&style=for-the-badge&logo=Adobe-Creative-Cloud" />
-</div>
-
----
-
-<h1>Contact Me!</h1>
-<div>
-    <a href="https://discord.com/users/389759544776982528">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/iDarthGigi">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-    <a href="https://github.com/DarthGigi" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://reddit.com/u/TheMagicZeus">
-        <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-    </a>
-    <a href="mailto:mrgigithedev@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
-    </a>
-</div>
+[![](https://visitcount.itsvg.in/api?id=darthgigi&icon=0&color=12)](https://visitcount.itsvg.in)

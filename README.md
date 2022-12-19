@@ -24,6 +24,10 @@ A useless human being that delivers nothing to society
 
 ![](https://quotes-github-readme.vercel.app/api?quote=Design+is+not+just+what+it+looks+like+and+feels+like.%0A+Design+is+how+it+works.&author=Steve%20Jobs&theme=dark&type=horizontal)
 
+### 😂 Random Dev Meme
+
+<img src="https://random-memer.darthgigi.repl.co/" width="512px"/>
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=darthgigi&icon=0&color=12)](https://visitcount.itsvg.in)

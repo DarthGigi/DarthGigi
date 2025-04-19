@@ -1,7 +1,5 @@
 A useless human being that delivers nothing to society
 <br/><br/>
-[![](https://visitcount.itsvg.in/api?id=darthgigi&icon=0&color=12)](https://visitcount.itsvg.in)
-
 ## 🌐 Socials:
 
 [![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.gg/jGCPpGDz) [![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/idarthgigi)

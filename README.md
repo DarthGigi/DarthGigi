@@ -1,5 +1,4 @@
 A useless human being that delivers nothing to society
-<br/><br/>
 ## 🌐 Socials:
 
 [![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.gg/jGCPpGDz) [![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/idarthgigi)

@@ -22,5 +22,5 @@ A useless human being that delivers nothing to society
 
 # ✍️ My Favorite Quotes
 
-![](https://quotes-github-readme.vercel.app/api?quote=Design+is+not+just+what+it+looks+like+and+feels+like.%0A+Design+is+how+it+works.&author=Steve%20Jobs&type=vertical&theme=github_dark)
-![](https://quotes-github-readme.vercel.app/api?quote=Give+people+wonderful+tools+%0A+and+they'll+do+wonderful+things.&author=Apple&type=vertical&theme=github_dark)
+![](https://quotes-github-readme.vercel.app/api?quote=Design+is+not+just+what+it+looks+like+and+feels+like.%0A+Design+is+how+it+works.&author=Steve%20Jobs&type=vertical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?quote=Give+people+wonderful+tools+%0A+and+they'll+do+wonderful+things.&author=Apple&type=vertical&theme=dark)
